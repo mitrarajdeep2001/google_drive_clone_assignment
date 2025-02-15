@@ -73,5 +73,5 @@ This is a File Management API built using Express.js. It allows users to upload,
 - **File Upload:** Multer
 
 ## License
-This project is licensed under the MIT License.
+This project is created by Rajdeep Mitra.
 
