@@ -1,0 +1,12 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; /* Full viewport height */
+}
+
+.home-container {
+  display: flex;
+  flex: 1; /* Take up remaining space */
+  margin-top: 100px; /* Offset for Navbar + Breadcrumb height (adjust as needed) */
+}
+
